@@ -10,6 +10,6 @@
         Arrays
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
-        <li><a href="#" style="color: #FFFFFF;">Second Largest</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/01_Second%20Largest.cpp" style="color: #FFFFFF;">Second Largest</a></li>
     </ul>
 </details>

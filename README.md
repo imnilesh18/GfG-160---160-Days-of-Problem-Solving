@@ -14,5 +14,6 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/02_Move%20All%20Zeroes%20to%20End.cpp" style="color: #FFFFFF;">Move All Zeroes to End</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/03_Reverse%20an%20Array.cpp" style="color: #FFFFFF;">Reverse an Array</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/04_Rotate%20Array.cpp" style="color: #FFFFFF;">Rotate Array</a></li>
+         <li><a href="$" style="color: #FFFFFF;">Next Permutation</a></li>
     </ul>
 </details>

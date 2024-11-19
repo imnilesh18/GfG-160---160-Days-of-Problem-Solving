@@ -22,6 +22,8 @@
  * 1 ≤ arr[i] ≤ 10^5
  */
 
+/************************************************************ C++ ************************************************/
+
 // Time Complexity: O(3N), where N = size of the given array
 // Finding the break-point, finding the next greater element, and reversal at the end takes O(N) for each, where N is the number of elements in the input array. This sums up to 3*O(N) which is approximately O(3N).
 // Space Complexity: Since no extra storage is required. Thus, its space complexity is O(1).
@@ -64,3 +66,62 @@ public:
       return;
    }
 };
+
+/************************************************************ JAVA ************************************************/
+
+// Time Complexity: O(3N), where N = size of the given array
+// Finding the break-point, finding the next greater element, and reversal at the end takes O(N) for each, where N is the number of elements in the input array. This sums up to 3*O(N) which is approximately O(3N).
+// Space Complexity: Since no extra storage is required. Thus, its space complexity is O(1).
+class Solution {
+   // Helper method to reverse an array from start to end indices.
+   private void reverse(int[] arr, int start, int end){
+      while (start < end) {
+         swap(arr, start, end);
+         start++;
+         end--;
+      }
+   }
+
+   // Helper method to swap two elements in an array.
+   private void swap(int[] arr, int i, int j){
+      int temp = arr[i];
+
+      arr[i] = arr[j];
+      arr[j] = temp;
+   }
+
+   public void nextPermutation(int[] arr){
+      int n = arr.length;   // Size of the array.
+
+      // Step 1: Find the break point.
+      int ind = -1;   // Break point.
+
+      // Traverse the array from right to left to find the break point.
+      for (int i = n - 2; i >= 0; i--) {
+         if (arr[i] < arr[i + 1]) {
+            // Index i is the break point.
+            ind = i;
+            break;
+         }
+      }
+
+      // If break point does not exist:
+      if (ind == -1) {
+         // Reverse the whole array.
+         reverse(arr, 0, n - 1);
+         return;
+      }
+
+      // Step 2: Find the next greater element and swap it with arr[ind].
+      for (int i = n - 1; i > ind; i--) {
+         if (arr[i] > arr[ind]) {
+            // Swap arr[i] and arr[ind].
+            swap(arr, i, ind);
+            break;
+         }
+      }
+
+      // Step 3: Reverse the right half of the array.
+      reverse(arr, ind + 1, n - 1);
+   }
+}

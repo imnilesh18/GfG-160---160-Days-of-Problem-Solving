@@ -16,5 +16,6 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/04_Rotate%20Array.cpp" style="color: #FFFFFF;">Rotate Array</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/05_Next%20Permutation.cpp" style="color: #FFFFFF;">Next Permutation</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/06_Majority%20Element%20II.cpp" style="color: #FFFFFF;">Majority Element II</a></li>
+         <li><a href="%" style="color: #FFFFFF;">Stock Buy and Sell – Multiple Transaction Allowed</a></li>
     </ul>
 </details>

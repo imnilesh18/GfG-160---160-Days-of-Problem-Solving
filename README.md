@@ -18,7 +18,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/06_Majority%20Element%20II.cpp" style="color: #FFFFFF;">Majority Element II</a></li>
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/07_Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed.cpp" style="color: #FFFFFF;">Stock Buy and Sell – Multiple Transaction Allowed</a></li>
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/08_Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed.cpp" style="color: #FFFFFF;">Stock Buy and Sell – Max one Transaction Allowed</a></li>
-         <li><a href="$" style="color: #FFFFFF;">Minimize the Heights I</a></li>
-         <li><a href="$" style="color: #FFFFFF;">Kadane's Algorithm</a></li>
+         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/09_%20Minimize%20the%20Heights%20I.cpp" style="color: #FFFFFF;">Minimize the Heights I</a></li>
+         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/10_Kadane's%20Algorithm.cpp" style="color: #FFFFFF;">Kadane's Algorithm</a></li>
     </ul>
 </details>

@@ -60,7 +60,6 @@ public:
 
 // T.C: O(n)
 // S.C: O(1)
-
 class Solution {
    // Function to find maximum product subarray
    int maxProduct(int[] arr){

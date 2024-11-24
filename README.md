@@ -20,6 +20,6 @@
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/08_Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed.cpp" style="color: #FFFFFF;">Stock Buy and Sell – Max one Transaction Allowed</a></li>
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/09_%20Minimize%20the%20Heights%20I.cpp" style="color: #FFFFFF;">Minimize the Heights I</a></li>
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/10_Kadane's%20Algorithm.cpp" style="color: #FFFFFF;">Kadane's Algorithm</a></li>
-         <li><a href="$" style="color: #FFFFFF;">Maximum Product Subarray</a></li>
+         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/11_Maximum%20Product%20Subarray.cpp" style="color: #FFFFFF;">Maximum Product Subarray</a></li>
     </ul>
 </details>

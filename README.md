@@ -22,6 +22,6 @@
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/10_Kadane's%20Algorithm.cpp" style="color: #FFFFFF;">Kadane's Algorithm</a></li>
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/11_Maximum%20Product%20Subarray.cpp" style="color: #FFFFFF;">Maximum Product Subarray</a></li>
          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/12_Max%20Circular%20Subarray%20Sum.cpp" style="color: #FFFFFF;">Max Circular Subarray Sum</a></li>
-          <li><a href="$" style="color: #FFFFFF;">Smallest Positive Missing Number</a></li>
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/01_Arrays/13_Smallest%20Positive%20Missing%20Number.cpp" style="color: #FFFFFF;">Smallest Positive Missing Number</a></li>
     </ul>
 </details>

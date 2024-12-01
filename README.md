@@ -35,6 +35,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/01_Implement%20Atoi.cpp" style="color: #FFFFFF;">Implement Atoi</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/02_Add%20Binary%20Strings.cpp" style="color: #FFFFFF;">Add Binary Strings</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/03_Anagram.cpp" style="color: #FFFFFF;">Anagram</a></li>
+        <li><a href="#" style="color: #FFFFFF;">Non Repeating Character</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

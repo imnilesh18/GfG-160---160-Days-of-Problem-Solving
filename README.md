@@ -36,7 +36,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/02_Add%20Binary%20Strings.cpp" style="color: #FFFFFF;">Add Binary Strings</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/03_Anagram.cpp" style="color: #FFFFFF;">Anagram</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/04_Non%20Repeating%20Character.cpp" style="color: #FFFFFF;">Non Repeating Character</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Search Pattern (KMP-Algorithm)</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/05_Search%20Pattern%20(KMP-Algorithm).cpp" style="color: #FFFFFF;">Search Pattern (KMP-Algorithm)</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

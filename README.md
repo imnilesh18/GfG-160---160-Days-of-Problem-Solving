@@ -38,7 +38,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/04_Non%20Repeating%20Character.cpp" style="color: #FFFFFF;">Non Repeating Character</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/05_Search%20Pattern%20(KMP-Algorithm).cpp" style="color: #FFFFFF;">Search Pattern (KMP-Algorithm)</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/06_Min%20Chars%20to%20Add%20for%20Palindrome.cpp" style="color: #FFFFFF;">Min Chars to Add for Palindrome</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Strings Rotations of Each Other</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/07_Strings%20Rotations%20of%20Each%20Other.cpp" style="color: #FFFFFF;">Strings Rotations of Each Other</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

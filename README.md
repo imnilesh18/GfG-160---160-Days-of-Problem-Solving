@@ -39,6 +39,16 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/05_Search%20Pattern%20(KMP-Algorithm).cpp" style="color: #FFFFFF;">Search Pattern (KMP-Algorithm)</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/06_Min%20Chars%20to%20Add%20for%20Palindrome.cpp" style="color: #FFFFFF;">Min Chars to Add for Palindrome</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/02_String/07_Strings%20Rotations%20of%20Each%20Other.cpp" style="color: #FFFFFF;">Strings Rotations of Each Other</a></li>
+    </ul>    
+</details>
+
+<!-- Sorting Section -->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Sorting
+    </summary>
+    <ul style="margin-left: 20px; margin-top: 5px;">
+        <li><a href="#" style="color: #FFFFFF;">Sort 0s, 1s and 2</a></li>       
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

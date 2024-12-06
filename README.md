@@ -49,6 +49,7 @@
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/03_Sorting/01_Sort%200s%2C%201s%20and%202s.cpp" style="color: #FFFFFF;">Sort 0s, 1s and 2</a></li>       
+        <li><a href="#" style="color: #FFFFFF;">Find H-Index</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

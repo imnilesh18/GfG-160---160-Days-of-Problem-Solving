@@ -52,6 +52,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/03_Sorting/02_Find%20H-Index.cpp" style="color: #FFFFFF;">Find H-Index</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/03_Sorting/03_Count%20Inversions.cpp" style="color: #FFFFFF;">Count Inversions</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/03_Sorting/04_Overlapping%20Intervals.cpp" style="color: #FFFFFF;">Overlapping Intervals</a></li>
+        <li><a href="#" style="color: #FFFFFF;">Insert Interval</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

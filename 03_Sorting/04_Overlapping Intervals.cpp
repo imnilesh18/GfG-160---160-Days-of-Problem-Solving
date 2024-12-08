@@ -19,6 +19,7 @@
 
 /************************************************************ C++ ************************************************/
 
+// Approach: (Using BIT/Fenwick Tree Approach)
 // T.C: O(nlogn)
 // S.C: O(1)
 class Solution {
@@ -52,6 +53,7 @@ public:
 
 /************************************************************ JAVA ************************************************/
 
+// Approach: (Using BIT/Fenwick Tree Approach)
 // T.C: O(nlogn)
 // S.C: O(1)
 class Solution {

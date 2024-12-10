@@ -73,7 +73,7 @@ public:
 };
 
 // Approach 2: Sorting and using last interval (same but different implementation)
-// T.C: O(nlogn) + O(n) ~ O(n)
+// T.C: O(nlogn) + O(n) ~ O(nlogn)
 // S.C: O(1)
 class Solution {
 public:
@@ -156,7 +156,7 @@ class Solution {
 }
 
 // Approach 2: Sorting and using last interval (same but different implementation)
-// T.C: O(nlogn) + O(n) ~ O(n)
+// T.C: O(nlogn) + O(n) ~ O(nlogn)
 // S.C: O(1)
 class Solution {
    public int minRemoval(int[][] intervals){

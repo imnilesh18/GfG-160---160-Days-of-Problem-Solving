@@ -65,7 +65,7 @@
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/01_Number%20of%20occurrence.cpp" style="color: #FFFFFF;">Number of occurrence</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Sorted and Rotated Minimum</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/02_Sorted%20and%20Rotated%20Minimum.cpp" style="color: #FFFFFF;">Sorted and Rotated Minimum</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->        
     </ul>
 </details>

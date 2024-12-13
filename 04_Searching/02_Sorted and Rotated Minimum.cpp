@@ -54,3 +54,23 @@ public:
 // Approach : Modified Binary Search
 // Time Complexity: O(log n) (Binary search reduces the search space logarithmically).
 // Space Complexity: O(1) (No extra space used; only variables l, r, and mid are used).
+class Solution {
+   public int findMin(int[] arr){
+      int l = 0, r = arr.length - 1; // Initialize left and right pointers
+
+      while (l < r) {                // Continue until the search space is reduced to one element
+         int mid = l + (r - l) / 2;  // Calculate the middle index (avoiding overflow)
+         if (arr[mid] > arr[r]) {
+            // If the middle element is greater than the rightmost element,
+            // the minimum must be in the right part of the array
+            l = mid + 1;     // Narrow the search to the right half
+         } else {
+            // If the middle element is less than or equal to the rightmost element,
+            // the minimum could still be in the left part
+            r = mid;     // Narrow the search to the left half (including mid)
+         }
+      }
+      // At the end of the loop, 'l' points to the minimum element
+      return arr[l];
+   }
+}

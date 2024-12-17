@@ -69,6 +69,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/03_Search%20in%20Rotated%20Sorted%20Array.cpp" style="color: #FFFFFF;">Search in Rotated Sorted Array</a></li>        
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/04_Peak%20element.cpp" style="color: #FFFFFF;">Peak element</a></li>  
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/05_K-th%20element%20of%20two%20Arrays.cpp" style="color: #FFFFFF;">K-th element of two Arrays</a></li>  
+        <li><a href="#" style="color: #FFFFFF;">Aggressive Cows</a></li> 
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
     </ul>
 </details>

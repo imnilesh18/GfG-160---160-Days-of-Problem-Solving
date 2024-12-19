@@ -71,7 +71,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/05_K-th%20element%20of%20two%20Arrays.cpp" style="color: #FFFFFF;">K-th element of two Arrays</a></li>  
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/06_Aggressive%20Cows.cpp" style="color: #FFFFFF;">Aggressive Cows</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/07_Allocate%20Minimum%20Pages.cpp" style="color: #FFFFFF;">Allocate Minimum Pages</a></li> 
-        <li><a href="#" style="color: #FFFFFF;">Kth Missing Positive Number in a Sorted Array</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/04_Searching/08_Kth%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array.cpp" style="color: #FFFFFF;">Kth Missing Positive Number in a Sorted Array</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
     </ul>
 </details>

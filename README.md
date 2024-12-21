@@ -75,3 +75,14 @@
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
     </ul>
 </details>
+
+<!-- Searching Section -->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Matrix
+    </summary>
+    <ul style="margin-left: 20px; margin-top: 5px;">
+        <li><a href="#" style="color: #FFFFFF;">Rotate by 90 degree</a></li> 
+        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
+    </ul>
+</details>

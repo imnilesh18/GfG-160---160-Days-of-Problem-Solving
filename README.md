@@ -87,6 +87,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/05_Matrix/03_Search%20in%20a%20Row-Column%20sorted%20matrix.cpp" style="color: #FFFFFF;">Search in a Row-Column sorted matrix</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/05_Matrix/04_Search%20in%20a%20row-wise%20sorted%20matrix.cpp" style="color: #FFFFFF;">Search in a row-wise sorted matrix</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/05_Matrix/05_Search%20in%20a%20sorted%20Matrix.cpp" style="color: #FFFFFF;">Search in a sorted Matrix</a></li> 
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/05_Matrix/06_Set%20Matrix%20Zeroes.cpp" style="color: #FFFFFF;">Set Matrix Zeroes</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

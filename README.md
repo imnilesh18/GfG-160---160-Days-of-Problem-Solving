@@ -91,3 +91,14 @@
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>
+
+<!-- Hashing Section -->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Hashing
+    </summary>
+    <ul style="margin-left: 20px; margin-top: 5px;">
+        <li><a href="#" style="color: #FFFFFF;">Two Sum - Pair with Given Sum</a></li>
+        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
+    </ul>
+</details>

@@ -99,6 +99,7 @@
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/01_Two%20Sum%20-%20Pair%20with%20Given%20Sum.cpp" style="color: #FFFFFF;">Two Sum - Pair with Given Sum</a></li>
+        <li><a href="#" style="color: #FFFFFF;">Count pairs with given sum</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

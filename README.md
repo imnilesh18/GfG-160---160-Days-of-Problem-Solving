@@ -102,7 +102,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/02_Count%20pairs%20with%20given%20sum.cpp" style="color: #FFFFFF;">Count pairs with given sum</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/03_Find%20All%20Triplets%20with%20Zero%20Sum.cpp" style="color: #FFFFFF;">Find All Triplets with Zero Sum</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/04_Intersection%20of%20Two%20arrays%20with%20Duplicate%20Elements.cpp" style="color: #FFFFFF;">Intersection of Two arrays with Duplicate Elements</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Union of Arrays with Duplicates</a></li> 
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/05_Union%20of%20Arrays%20with%20Duplicates.cpp" style="color: #FFFFFF;">Union of Arrays with Duplicates</a></li> 
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

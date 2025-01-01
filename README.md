@@ -104,7 +104,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/04_Intersection%20of%20Two%20arrays%20with%20Duplicate%20Elements.cpp" style="color: #FFFFFF;">Intersection of Two arrays with Duplicate Elements</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/05_Union%20of%20Arrays%20with%20Duplicates.cpp" style="color: #FFFFFF;">Union of Arrays with Duplicates</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/06_Longest%20Consecutive%20Subsequence.cpp" style="color: #FFFFFF;">Longest Consecutive Subsequence</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Print Anagrams Together</a></li> 
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/07_Print%20Anagrams%20Together.cpp" style="color: #FFFFFF;">Print Anagrams Together</a></li> 
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

@@ -106,7 +106,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/06_Longest%20Consecutive%20Subsequence.cpp" style="color: #FFFFFF;">Longest Consecutive Subsequence</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/07_Print%20Anagrams%20Together.cpp" style="color: #FFFFFF;">Print Anagrams Together</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/08_Subarrays%20with%20sum%20K.cpp" style="color: #FFFFFF;">Subarrays with sum K</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Count Subarrays with given XOR</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/06_Hashing/09_Count%20Subarrays%20with%20given%20XOR.cpp" style="color: #FFFFFF;">Count Subarrays with given XOR</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

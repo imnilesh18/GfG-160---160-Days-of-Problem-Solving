@@ -117,7 +117,7 @@
         Two Pointer Technique
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
-        <li><a href="#" style="color: #FFFFFF;">Count all triplets with given sum in sorted array</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/01_Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array.cpp" style="color: #FFFFFF;">Count all triplets with given sum in sorted array</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

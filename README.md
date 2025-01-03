@@ -110,3 +110,14 @@
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>
+
+<!-- Hashing Section -->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Two Pointer Technique
+    </summary>
+    <ul style="margin-left: 20px; margin-top: 5px;">
+        <li><a href="#" style="color: #FFFFFF;">Count all triplets with given sum in sorted array</a></li>
+        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
+    </ul>
+</details>

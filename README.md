@@ -121,6 +121,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/02_Count%20Pairs%20whose%20sum%20is%20less%20than%20target.cpp" style="color: #FFFFFF;">Count Pairs whose sum is less than target</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/03_Sum%20Pair%20closest%20to%20target.cpp" style="color: #FFFFFF;">Sum Pair closest to target</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/04_Pair%20with%20given%20sum%20in%20a%20sorted%20array.cpp" style="color: #FFFFFF;">Pair with given sum in a sorted array</a></li>
-        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/05_Count%20the%20number%20of%20possible%20triangles.cpp" style="color: #FFFFFF;">Count the number of possible triangles</a></li> 
+        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

@@ -30,7 +30,6 @@
 // Approach: Use sliding window technique with two pointers to track potential subarrays.
 // TC: O(n) - Each element is added and removed at most once.
 // SC: O(1) - Only uses constant extra space.
-
 class Solution {
 public:
    vector<int> subarraySum(vector<int>&arr, int target){

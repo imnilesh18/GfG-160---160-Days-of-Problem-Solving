@@ -125,6 +125,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/06_Indexes%20of%20Subarray%20Sum.cpp" style="color: #FFFFFF;">Indexes of Subarray Sum</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/07_Count%20distinct%20elements%20in%20every%20window.cpp" style="color: #FFFFFF;">Count distinct elements in every window</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/07_Two%20Pointer%20Technique/08_Longest%20substring%20with%20distinct%20characters.cpp" style="color: #FFFFFF;">Longest substring with distinct characters</a></li>
+        <li><a href="#" style="color: #FFFFFF;">Trapping Rain Water</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

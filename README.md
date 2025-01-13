@@ -137,7 +137,7 @@
         Prefix Sum
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
-        <li><a href="#" style="color: #FFFFFF;">Equilibrium Point</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/01_Equilibrium%20Point.cpp" style="color: #FFFFFF;">Equilibrium Point</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>

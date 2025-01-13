@@ -130,3 +130,14 @@
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul>
 </details>
+
+<!-- Prefix Sum -->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Prefix Sum
+    </summary>
+    <ul style="margin-left: 20px; margin-top: 5px;">
+        <li><a href="#" style="color: #FFFFFF;">Equilibrium Point</a></li>
+        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
+    </ul>
+</details>

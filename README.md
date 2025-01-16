@@ -140,7 +140,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/01_Equilibrium%20Point.cpp" style="color: #FFFFFF;">Equilibrium Point</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/02_Longest%20Subarray%20with%20Sum%20K.cpp" style="color: #FFFFFF;">Longest Subarray with Sum K</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/03_Largest%20subarray%20of%200's%20and%201's.cpp" style="color: #FFFFFF;">Largest subarray of 0's and 1's</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Product array puzzle</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/04_Product%20array%20puzzle.cpp" style="color: #FFFFFF;">Product array puzzle</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

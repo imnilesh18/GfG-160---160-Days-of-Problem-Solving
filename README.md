@@ -151,6 +151,6 @@
         Linked List
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
-        <li><a href="#" style="color: #FFFFFF;">Reverse a linked list</a></li> 
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/01_Reverse%20a%20linked%20list.cpp" style="color: #FFFFFF;">Reverse a linked list</a></li> 
     </ul> 
 </details>

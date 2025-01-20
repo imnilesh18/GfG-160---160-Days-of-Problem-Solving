@@ -153,7 +153,7 @@
     <ul style="margin-left: 20px; margin-top: 5px;">
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/01_Reverse%20a%20linked%20list.cpp" style="color: #FFFFFF;">Reverse a linked list</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/02_Rotate%20a%20Linked%20List.cpp" style="color: #FFFFFF;">Rotate a Linked List</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Merge two sorted linked lists</a></li> 
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/03_Merge%20two%20sorted%20linked%20lists.cpp" style="color: #FFFFFF;">Merge two sorted linked lists</a></li> 
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

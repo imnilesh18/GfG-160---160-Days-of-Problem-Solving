@@ -159,6 +159,6 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/06_Clone%20List%20with%20Next%20and%20Random.cpp" style="color: #FFFFFF;">Clone List with Next and Random</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/07_Detect%20Loop%20in%20linked%20list.cpp" style="color: #FFFFFF;">Detect Loop in linked list</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/08_Find%20the%20first%20node%20of%20loop%20in%20linked%20list.cpp" style="color: #FFFFFF;">Find the first node of loop in linked list</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Remove loop in Linked List</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/09_Remove%20loop%20in%20Linked%20List.cpp" style="color: #FFFFFF;">Remove loop in Linked List</a></li>
     </ul> 
 </details>

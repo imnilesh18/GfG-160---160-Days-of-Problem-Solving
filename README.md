@@ -141,7 +141,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/02_Longest%20Subarray%20with%20Sum%20K.cpp" style="color: #FFFFFF;">Longest Subarray with Sum K</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/03_Largest%20subarray%20of%200's%20and%201's.cpp" style="color: #FFFFFF;">Largest subarray of 0's and 1's</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/08_Prefix%20Sum/04_Product%20array%20puzzle.cpp" style="color: #FFFFFF;">Product array puzzle</a></li>
-        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
+        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
     </ul> 
 </details>
 
@@ -159,5 +159,6 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/06_Clone%20List%20with%20Next%20and%20Random.cpp" style="color: #FFFFFF;">Clone List with Next and Random</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/07_Detect%20Loop%20in%20linked%20list.cpp" style="color: #FFFFFF;">Detect Loop in linked list</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/08_Find%20the%20first%20node%20of%20loop%20in%20linked%20list.cpp" style="color: #FFFFFF;">Find the first node of loop in linked list</a></li>
+        <li><a href="#" style="color: #FFFFFF;">Remove loop in Linked List</a></li>
     </ul> 
 </details>

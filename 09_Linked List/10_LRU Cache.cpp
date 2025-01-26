@@ -279,8 +279,6 @@ class LRUCache {
 // Approach 2: Doubly Linked List + Hashmap for O(1) operations
 // Time Complexity: O(1) for both get and put operations
 // Space Complexity: O(capacity) to store key-value mappings
-import java.util.*;
-
 class LRUCache {
    // Doubly Linked List to maintain order of recently used items
    private LinkedList<Integer> dll;

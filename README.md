@@ -161,6 +161,15 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/08_Find%20the%20first%20node%20of%20loop%20in%20linked%20list.cpp" style="color: #FFFFFF;">Find the first node of loop in linked list</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/09_Remove%20loop%20in%20Linked%20List.cpp" style="color: #FFFFFF;">Remove loop in Linked List</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/09_Linked%20List/10_LRU%20Cache.cpp" style="color: #FFFFFF;">LRU Cache</a></li>
-        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
+    </ul> 
+</details>
+
+<!-- Recursion and Backtracking -->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Recursion and Backtracking
+    </summary>
+    <ul style="margin-left: 20px; margin-top: 5px;">
+        <li><a href="#" style="color: #FFFFFF;">Permutations of a String</a></li>  
     </ul> 
 </details>

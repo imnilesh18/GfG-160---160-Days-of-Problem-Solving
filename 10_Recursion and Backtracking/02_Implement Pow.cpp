@@ -89,10 +89,6 @@ public:
  * undefined behavior from integer overflow.
  */
 class Solution {
-   public double power(double x, int e) {
-      return solve(x, (long)e);
-   }
-
    private double solve(double x, long n) {
       // Base case: x^0 = 1
       if (n == 0) {
@@ -110,5 +106,9 @@ class Solution {
       else {
          return x * solve(x * x, (n - 1) / 2);
       }
+   }
+
+   public double power(double x, int e) {
+      return solve(x, (long)e);
    }
 }

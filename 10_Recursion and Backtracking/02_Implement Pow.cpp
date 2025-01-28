@@ -42,7 +42,6 @@
  */
 class Solution {
 public:
-
    double solve(double x, long n) {
       // Base case: any number to the power of 0 is 1
       if (n == 0) {

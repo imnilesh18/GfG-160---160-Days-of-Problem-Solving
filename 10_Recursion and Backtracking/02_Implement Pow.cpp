@@ -42,12 +42,7 @@
  */
 class Solution {
 public:
-   double power(double x, int n) {
-      // Cast to long to handle integer overflow when n = -2^31
-      return solve(x, (long)n);
-   }
 
-private:
    double solve(double x, long n) {
       // Base case: any number to the power of 0 is 1
       if (n == 0) {
@@ -67,6 +62,11 @@ private:
       else {
          return x * solve(x * x, (n - 1) / 2);
       }
+   }
+
+   double power(double x, int n) {
+      // Cast to long to handle integer overflow when n = -2^31
+      return solve(x, (long)n);
    }
 };
 

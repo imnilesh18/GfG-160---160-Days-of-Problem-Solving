@@ -173,6 +173,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/10_Recursion%20and%20Backtracking/01_Permutations%20of%20a%20String.cpp" style="color: #FFFFFF;">Permutations of a String</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/10_Recursion%20and%20Backtracking/02_Implement%20Pow.cpp" style="color: #FFFFFF;">Implement Pow</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/10_Recursion%20and%20Backtracking/03_N-Queen%20Problem.cpp" style="color: #FFFFFF;">N-Queen Problem</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/10_Recursion%20and%20Backtracking/05_Word%20Search.cpp" style="color: #FFFFFF;">Word Search</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

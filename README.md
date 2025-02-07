@@ -189,7 +189,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/03_Diameter%20of%20a%20Binary%20Tree.cpp" style="color: #FFFFFF;">Diameter of a Binary Tree</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/04_Mirror%20Tree.cpp" style="color: #FFFFFF;">Mirror Tree</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/05_Construct%20Tree%20from%20Inorder%20%26%20Preorder.cpp" style="color: #FFFFFF;">Construct Tree from Inorder & Preorder</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Inorder Traversal</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/06_Inorder%20Traversal.cpp" style="color: #FFFFFF;">Inorder Traversal</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

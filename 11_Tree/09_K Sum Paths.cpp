@@ -38,7 +38,7 @@
 // Space Complexity: O(n) - In worst case, recursion stack and hashmap may store up to n entries.
 class Solution {
 public:
-   int fill(Node* root, int k, int currSum, std::unordered_map<int, int>&prefixSum) {
+   int fill(Node* root, int k, int currSum, unordered_map<int, int>&prefixSum) {
       if (!root) {
          return 0;    // Base case: reached the end of a branch.
       }
@@ -63,7 +63,7 @@ public:
 
    // sumK: Returns the total number of downward paths with sum equal to k.
    int sumK(Node* root, int k) {
-      std::unordered_map<int, int> prefixSum;
+      unordered_map<int, int> prefixSum;
 
       prefixSum[0] = 1;   // Initialize with sum 0 to handle paths that equal k from the root.
       return fill(root, k, 0, prefixSum);

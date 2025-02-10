@@ -20,6 +20,8 @@
  * -10^4 ≤ node->data ≤ 10^4
  */
 
+/************************************************************ C++ ************************************************/
+
 /*
  * // Tree Node
  * class Node {
@@ -34,9 +36,6 @@
  * }
  * };
  */
-
-/************************************************************ C++ ************************************************/
-
 
 // Approach: Use recursion to calculate maximum path sums at each node by considering three cases:
 // 1) path passing through the node including both subtrees,

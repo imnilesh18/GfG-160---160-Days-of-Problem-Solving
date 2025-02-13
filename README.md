@@ -195,6 +195,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/09_K%20Sum%20Paths.cpp" style="color: #FFFFFF;">K Sum Paths</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/10_Check%20for%20BST.cpp" style="color: #FFFFFF;">Check for BST</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/11_k-th%20Smallest%20in%20BST.cpp" style="color: #FFFFFF;">k-th Smallest in BST</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/12_Pair%20Sum%20in%20BST.cpp" style="color: #FFFFFF;">Pair Sum in BST</a></li> 
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

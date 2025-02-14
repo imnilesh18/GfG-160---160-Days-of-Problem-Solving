@@ -196,7 +196,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/10_Check%20for%20BST.cpp" style="color: #FFFFFF;">Check for BST</a></li> 
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/11_k-th%20Smallest%20in%20BST.cpp" style="color: #FFFFFF;">k-th Smallest in BST</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/12_Pair%20Sum%20in%20BST.cpp" style="color: #FFFFFF;">Pair Sum in BST</a></li> 
-        <li><a href="#" style="color: #FFFFFF;">Fixing Two nodes of a BST</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/11_Tree/13_Fixing%20Two%20nodes%20of%20a%20BST.cpp" style="color: #FFFFFF;">Fixing Two nodes of a BST</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

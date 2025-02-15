@@ -131,13 +131,13 @@ class Solution {
 
 /* Dry run:
  * Example BST:
- * / *         20
+ *         20
  *        /  \
- *       8    22
+ *       8   22
  *      / \
  *     4   12
- * / *         /  \
- *        10   14
+ *        /  \
+ *      10   14
  * n1 = 8, n2 = 14
  * Start at root (20): both 8 and 14 are less than 20, so move to the left subtree.
  * At node 8: since 8 equals one of our nodes, this node is the LCA.

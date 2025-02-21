@@ -209,6 +209,6 @@
         Stack
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
-        <li><a href="#" style="color: #FFFFFF;">Parenthesis Checker</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/01_Parenthesis%20Checker.cpp" style="color: #FFFFFF;">Parenthesis Checker</a></li>
     </ul> 
 </details>

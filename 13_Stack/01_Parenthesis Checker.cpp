@@ -30,7 +30,6 @@
  * s[i] ∈ {'{', '}', '(', ')', '[', ']'}
  */
 
-
 // Approach: Use a stack to validate balanced brackets by pushing opening brackets and matching them with closing brackets.
 // TC: O(n) because we traverse each character once.
 // SC: O(n) in the worst-case scenario when all characters are opening brackets.

@@ -210,5 +210,7 @@
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/01_Parenthesis%20Checker.cpp" style="color: #FFFFFF;">Parenthesis Checker</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/02_Longest%20valid%20Parentheses.cpp" style="color: #FFFFFF;">Longest valid Parentheses</a></li>
+        <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

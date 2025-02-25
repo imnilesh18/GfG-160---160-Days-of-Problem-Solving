@@ -213,6 +213,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/02_Longest%20valid%20Parentheses.cpp" style="color: #FFFFFF;">Longest valid Parentheses</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/03_Next%20Greater%20Element.cpp" style="color: #FFFFFF;">Next Greater Element</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/04_Stock%20span%20problem.cpp" style="color: #FFFFFF;">Stock span problem</a></li>
+        <li><a href="#" style="color: #FFFFFF;">Histogram Max Rectangular Area</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

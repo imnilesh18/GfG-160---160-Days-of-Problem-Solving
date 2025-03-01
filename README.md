@@ -217,7 +217,7 @@
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/06_Maximum%20of%20minimum%20for%20every%20window%20size.cpp" style="color: #FFFFFF;">Maximum of minimum for every window size</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/07_Get%20Min%20from%20Stack.cpp" style="color: #FFFFFF;">Get Min from Stack</a></li>
         <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/08_Evaluation%20of%20Postfix%20Expression.cpp" style="color: #FFFFFF;">Evaluation of Postfix Expression</a></li>
-        <li><a href="#" style="color: #FFFFFF;">Decode the string</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/13_Stack/09_Decode%20the%20string.cpp" style="color: #FFFFFF;">Decode the string</a></li>
         <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

@@ -228,6 +228,6 @@
         Queue and Deque
     </summary>
     <ul style="margin-left: 20px; margin-top: 5px;">
-        <li><a href="#" style="color: #FFFFFF;">K Sized Subarray Maximum</a></li>
+        <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/14_Queue%20and%20Deque/01_K%20Sized%20Subarray%20Maximum.cpp" style="color: #FFFFFF;">K Sized Subarray Maximum</a></li>
     </ul> 
 </details>

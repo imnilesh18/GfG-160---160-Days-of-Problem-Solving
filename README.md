@@ -240,6 +240,7 @@
         Dynamic Programming
     </summary>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/01_Longest%20Increasing%20Subsequence.cpp" style="color: #FFFFFF;">Longest Increasing Subsequence</a></li>
-          <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/02_Longest%20String%20Chain.cpp" style="color: #FFFFFF;">Longest String Chain</a></li>
+          <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->L
     </ul> 
 </details>

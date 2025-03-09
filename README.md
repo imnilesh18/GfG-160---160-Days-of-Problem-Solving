@@ -244,7 +244,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/03_Longest%20Common%20Subsequence.cpp" style="color: #FFFFFF;">Longest Common Subsequence</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/04_Longest%20Palindromic%20Subsequence.cpp" style="color: #FFFFFF;">Longest Palindromic Subsequence</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/05_Longest%20Palindrome%20in%20a%20String.cpp" style="color: #FFFFFF;">Longest Palindrome in a String</a></li>
-          <li><a href="#" style="color: #FFFFFF;">Palindrome SubStrings</a></li>
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/06_Palindrome%20SubStrings.cpp" style="color: #FFFFFF;">Palindrome SubStrings</a></li>
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

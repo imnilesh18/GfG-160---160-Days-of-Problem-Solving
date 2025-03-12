@@ -247,6 +247,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/06_Palindrome%20SubStrings.cpp" style="color: #FFFFFF;">Palindrome SubStrings</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/07_Edit%20Distance.cpp" style="color: #FFFFFF;">Edit Distance</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/08_Ways%20to%20Reach%20the%20n'th%20Stair.cpp" style="color: #FFFFFF;">Ways to Reach the n'th Stair</a></li>
+          <li><a href="#" style="color: #FFFFFF;">Min Cost Climbing Stairs</a></li>
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

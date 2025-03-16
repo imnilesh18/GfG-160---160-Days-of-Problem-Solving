@@ -252,7 +252,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/11_Coin%20Change%20(Count%20Ways).cpp" style="color: #FFFFFF;">Coin Change (Count Ways)</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/12_Coin%20Change%20(Minimum%20Coins).cpp" style="color: #FFFFFF;">Coin Change (Minimum Coins)</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/13_Minimum%20Jumps.cpp" style="color: #FFFFFF;">Minimum Jumps</a></li>
-          <li><a href="#" style="color: #FFFFFF;">Subset Sum Problem</a></li>
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/14_Subset%20Sum%20Problem.cpp" style="color: #FFFFFF;">Subset Sum Problem</a></li>
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

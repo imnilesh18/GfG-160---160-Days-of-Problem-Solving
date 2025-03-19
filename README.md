@@ -255,6 +255,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/14_Subset%20Sum%20Problem.cpp" style="color: #FFFFFF;">Subset Sum Problem</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/15_Partition%20Equal%20Subset%20Sum.cpp" style="color: #FFFFFF;">Partition Equal Subset Sum</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/16_Stock%20Buy%20and%20Sell%20-%20Max%20K%20Transactions%20Allowed.cpp" style="color: #FFFFFF;">Stock Buy and Sell - Max K Transactions Allowed</a></li>
+          <li><a href="#" style="color: #FFFFFF;">Stock Buy and Sell – Max 2 Transactions Allowed</a></li>
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

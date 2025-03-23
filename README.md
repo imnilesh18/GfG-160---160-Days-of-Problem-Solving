@@ -259,6 +259,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/18_Stickler%20Thief.cpp" style="color: #FFFFFF;">Stickler Thief</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/19_Stickler%20Thief%20II.cpp" style="color: #FFFFFF;">Stickler Thief II</a></li> 
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/15_Dynamic%20Programming/20_Total%20Decoding%20Messages.cpp" style="color: #FFFFFF;">Total Decoding Messages</a></li> 
+          <li><a href="#" style="color: #FFFFFF;">Matrix Chain Multiplication</a></li>
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
     </ul> 
 </details>

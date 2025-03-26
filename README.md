@@ -271,7 +271,7 @@
     <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
         Greedy
     </summary>
-          <li><a href="#" style="color: #FFFFFF;">Minimum Platforms</a></li>
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/16_Greedy/01_Minimum%20Platforms.cpp" style="color: #FFFFFF;">Minimum Platforms</a></li>
           <!-- <li><a href="#" style="color: #FFFFFF;"></a></li> -->
     </ul> 
 </details>

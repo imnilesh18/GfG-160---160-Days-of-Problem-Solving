@@ -40,33 +40,34 @@
 // Time Complexity: O(n^2) in the worst-case scenario because for each station, the simulation may traverse nearly all stations.
 // Space Complexity: O(1) as we only use a constant amount of extra variables.
 class Solution {
-    public int startStation(int[] gas, int[] cost) {
-        int n = gas.length;
+public:
+    int startStation(vector<int>& gas, vector<int>& cost) {
+        int n = gas.size();
 
-        for (int i = 0; i < n; i++) { // Try each station as a potential starting point.
-            if (gas[i] < cost[i]) {   // If station i doesn't have enough gas to leave, skip.
+        for (int i = 0; i < n; i++) {   // Try each station as a potential starting point.
+            if (gas[i] < cost[i]) {     // If station i doesn't have enough gas to leave, skip.
                 continue;
             }
 
-            int j       = (i + 1) % n;               // j points to the next station in a circular fashion.
-            int currGas = gas[i] - cost[i] + gas[j]; // After leaving i and arriving at j.
+            int j       = (i + 1) % n;                 // j points to the next station in a circular fashion.
+            int currGas = gas[i] - cost[i] + gas[j];   // After leaving i and arriving at j.
 
-            while (j != i) {                         // Continue until we complete a full circle.
-                if (currGas < cost[j]) {             // If current gas is insufficient to leave station j, break.
+            while (j != i) {                           // Continue until we complete a full circle.
+                if (currGas < cost[j]) {               // If current gas is insufficient to leave station j, break.
                     break;
                 }
-                int costForMovingFromThisj = cost[j];                // Cost to leave station j.
-                j       = (j + 1) % n;                               // Move to the next station.
-                currGas = currGas - costForMovingFromThisj + gas[j]; // Update current gas.
+                int costForMovingFromThisj = cost[j];                  // Cost to leave station j.
+                j       = (j + 1) % n;                                 // Move to the next station.
+                currGas = currGas - costForMovingFromThisj + gas[j];   // Update current gas.
             }
 
-            if (j == i) {   // If we successfully returned to the starting station, return i.
+            if (j == i) {     // If we successfully returned to the starting station, return i.
                 return i;
             }
         }
-        return -1;   // No valid starting station found.
+        return -1;     // No valid starting station found.
     }
-}
+};
 
 /*
  * Dry Run Visualization:
@@ -137,9 +138,9 @@ class Solution {
  *
  * Visual State:
  * +--------------------------------------------------+
- * | i remains at index 2                           |
- * | j moves to index 0                             |
- * | currGas updated to 7                           |
+ * | i remains at index 2                             |
+ * | j moves to index 0                               |
+ * | currGas updated to 7                             |
  * +--------------------------------------------------+
  *
  * -------------------------------------------------
@@ -158,9 +159,9 @@ class Solution {
  *
  * Visual State:
  * +--------------------------------------------------+
- * | i remains at index 2                           |
- * | j moves to index 1                             |
- * | currGas updated to 6                           |
+ * | i remains at index 2                             |
+ * | j moves to index 1                               |
+ * | currGas updated to 6                             |
  * +--------------------------------------------------+
  *
  * -------------------------------------------------
@@ -179,9 +180,9 @@ class Solution {
  *
  * Visual State:
  * +--------------------------------------------------+
- * | i remains at index 2                           |
- * | j moves back to index 2                        |
- * | currGas updated to 7                           |
+ * | i remains at index 2                             |
+ * | j moves back to index 2                          |
+ * | currGas updated to 7                             |
  * +--------------------------------------------------+
  *
  * -------------------------------------------------
@@ -189,6 +190,56 @@ class Solution {
  * -------------------------------------------------
  *   * j equals i (both at index 2), meaning the circuit is complete.
  *   * Therefore, the valid starting index is 2.
+ */
+
+/*
+ *  +---------------------------------------------------------------------------------+
+ *  | Greedy Approach Intuition                                                       |
+ *  |                                                                                 |
+ *  | 1. Imagine a circular route with several gas stations. Each station provides    |
+ *  |    some gas, and there is a cost to travel from one station to the next.        |
+ *  |                                                                                 |
+ *  | 2. Our goal is to find a starting station from which you can complete the       |
+ *  |    circuit without running out of gas.                                          |
+ *  |                                                                                 |
+ *  | 3. The approach:                                                                |
+ *  |    - Start at a candidate station and compute a running fuel balance as you     |
+ *  |      move from station to station.                                              |
+ *  |    - At each station, update the fuel balance:                                  |
+ *  |          Fuel Balance = Previous Balance + (Gas at Current Station - Cost to    |
+ *  |                           Next Station)                                         |
+ *  |    - If the fuel balance becomes negative, it means that the current candidate  |
+ *  |      cannot be a valid starting point.                                          |
+ *  |    - Moreover, any station between the candidate and the point of failure also  |
+ *  |      cannot be the starting point because they would face the same deficit.     |
+ *  |    - Therefore, reset the fuel balance to 0 and choose the next station as a new|
+ *  |      candidate.                                                                 |
+ *  |                                                                                 |
+ *  | 4. Example to illustrate:                                                       |
+ *  |    - Let gas = [4, 5, 7, 4] and cost = [6, 6, 3, 5].                            |
+ *  |                                                                                 |
+ *  |    * Start at station 0:                                                        |
+ *  |        - Fuel Balance = 4 - 6 = -2                                              |
+ *  |        - Since it's negative, station 0 cannot be the starting point.           |
+ *  |                                                                                 |
+ *  |    * Try station 1:                                                             |
+ *  |        - Fuel Balance = 5 - 6 = -1                                              |
+ *  |        - Again, negative, so station 1 is also invalid.                         |
+ *  |                                                                                 |
+ *  |    * Try station 2:                                                             |
+ *  |        - Fuel Balance = 7 - 3 = 4                                               |
+ *  |        - Move to station 3:                                                     |
+ *  |            New Fuel Balance = 4 + (4 - 5) = 3                                   |
+ *  |        - When we loop back to station 2, the balance is still non-negative.     |
+ *  |        - Thus, station 2 is a valid starting point.                             |
+ *  |                                                                                 |
+ *  | 5. Key Insight:                                                                 |
+ *  |    - If you run out of fuel at a station, none of the stations between the      |
+ *  |      current candidate and that station can be valid start points because the   |
+ *  |      deficit would carry over.                                                  |
+ *  |    - Resetting the candidate each time the balance goes negative ensures that   |
+ *  |      you only traverse the circuit once, achieving an efficient O(n) time.      |
+ *  +---------------------------------------------------------------------------------+
  */
 
 // Approach 2 (Optimized Greedy):
@@ -483,6 +534,56 @@ class Solution {
  * -------------------------------------------------
  *   * j equals i (both at index 2), meaning the circuit is complete.
  *   * Therefore, the valid starting index is 2.
+ */
+
+/*
+ *  +---------------------------------------------------------------------------------+
+ *  | Greedy Approach Intuition                                                       |
+ *  |                                                                                 |
+ *  | 1. Imagine a circular route with several gas stations. Each station provides    |
+ *  |    some gas, and there is a cost to travel from one station to the next.        |
+ *  |                                                                                 |
+ *  | 2. Our goal is to find a starting station from which you can complete the       |
+ *  |    circuit without running out of gas.                                          |
+ *  |                                                                                 |
+ *  | 3. The approach:                                                                |
+ *  |    - Start at a candidate station and compute a running fuel balance as you     |
+ *  |      move from station to station.                                              |
+ *  |    - At each station, update the fuel balance:                                  |
+ *  |          Fuel Balance = Previous Balance + (Gas at Current Station - Cost to    |
+ *  |                           Next Station)                                         |
+ *  |    - If the fuel balance becomes negative, it means that the current candidate  |
+ *  |      cannot be a valid starting point.                                          |
+ *  |    - Moreover, any station between the candidate and the point of failure also  |
+ *  |      cannot be the starting point because they would face the same deficit.     |
+ *  |    - Therefore, reset the fuel balance to 0 and choose the next station as a new|
+ *  |      candidate.                                                                 |
+ *  |                                                                                 |
+ *  | 4. Example to illustrate:                                                       |
+ *  |    - Let gas = [4, 5, 7, 4] and cost = [6, 6, 3, 5].                            |
+ *  |                                                                                 |
+ *  |    * Start at station 0:                                                        |
+ *  |        - Fuel Balance = 4 - 6 = -2                                              |
+ *  |        - Since it's negative, station 0 cannot be the starting point.           |
+ *  |                                                                                 |
+ *  |    * Try station 1:                                                             |
+ *  |        - Fuel Balance = 5 - 6 = -1                                              |
+ *  |        - Again, negative, so station 1 is also invalid.                         |
+ *  |                                                                                 |
+ *  |    * Try station 2:                                                             |
+ *  |        - Fuel Balance = 7 - 3 = 4                                               |
+ *  |        - Move to station 3:                                                     |
+ *  |            New Fuel Balance = 4 + (4 - 5) = 3                                   |
+ *  |        - When we loop back to station 2, the balance is still non-negative.     |
+ *  |        - Thus, station 2 is a valid starting point.                             |
+ *  |                                                                                 |
+ *  | 5. Key Insight:                                                                 |
+ *  |    - If you run out of fuel at a station, none of the stations between the      |
+ *  |      current candidate and that station can be valid start points because the   |
+ *  |      deficit would carry over.                                                  |
+ *  |    - Resetting the candidate each time the balance goes negative ensures that   |
+ *  |      you only traverse the circuit once, achieving an efficient O(n) time.      |
+ *  +---------------------------------------------------------------------------------+
  */
 
 // Approach 2 (Optimized Greedy):

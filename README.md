@@ -273,7 +273,7 @@
     </summary>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/16_Greedy/01_Minimum%20Platforms.cpp" style="color: #FFFFFF;">Minimum Platforms</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/16_Greedy/02_Activity%20Selection.cpp" style="color: #FFFFFF;">Activity Selection</a></li> 
-          <li><a href="#" style="color: #FFFFFF;">Job Sequencing Problem</a></li> 
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/16_Greedy/03_Job%20Sequencing%20Problem.cpp" style="color: #FFFFFF;">Job Sequencing Problem</a></li> 
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> --> 
     </ul> 
 </details>

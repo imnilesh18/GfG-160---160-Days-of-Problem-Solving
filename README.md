@@ -276,6 +276,16 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/16_Greedy/03_Job%20Sequencing%20Problem.cpp" style="color: #FFFFFF;">Job Sequencing Problem</a></li> 
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/16_Greedy/04_Gas%20Station.cpp" style="color: #FFFFFF;">Gas Station</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/16_Greedy/05_Maximize%20partitions%20in%20a%20String.cpp" style="color: #FFFFFF;">Maximize partitions in a String</a></li>  
-          <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->  
+          <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
+    </ul> 
+</details>
+
+<!-- Graph-->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Graph
+    </summary>
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/01_DFS%20of%20Graph.cpp" style="color: #FFFFFF;">DFS of Graph</a></li> 
+          <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

@@ -288,6 +288,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/01_DFS%20of%20Graph.cpp" style="color: #FFFFFF;">DFS of Graph</a></li> 
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/02_BFS%20of%20graph.cpp" style="color: #FFFFFF;">BFS of graph</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/03_Rotten%20Oranges.cpp" style="color: #FFFFFF;">Rotten Oranges</a></li>
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/04_Undirected%20Graph%20Cycle.cpp" style="color: #FFFFFF;">Undirected Graph Cycle</a></li>
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->
     </ul> 
 </details>

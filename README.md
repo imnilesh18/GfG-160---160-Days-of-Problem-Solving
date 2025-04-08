@@ -292,6 +292,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/05_Find%20the%20number%20of%20islands.cpp" style="color: #FFFFFF;">Find the number of islands</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/06_Topological%20sort.cpp" style="color: #FFFFFF;">Topological sort</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/17_Graph/07_Directed%20Graph%20Cycle.cpp" style="color: #FFFFFF;">Directed Graph Cycle</a></li> 
+          <li><a href="#" style="color: #FFFFFF;">Bridge edge in a graph</a></li>          
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->          
     </ul> 
 </details>

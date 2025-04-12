@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "any": "cpp",
+    "bitset": "cpp",
+    "source_location": "cpp"
+  }
+}

@@ -312,7 +312,7 @@
     <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
         Tries
     </summary>        
-          <li><a href="#" style="color: #FFFFFF;">Implement Trie</a></li>    
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/18_Tries/01_Implement%20Trie.cpp" style="color: #FFFFFF;">Implement Trie</a></li>    
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->      
     </ul> 
 </details>

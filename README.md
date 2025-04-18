@@ -306,3 +306,13 @@
           <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->          
     </ul> 
 </details>
+
+<!-- Tries-->
+<details style="margin-top: 10px; font-family: Arial, sans-serif;">
+    <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
+        Tries
+    </summary>        
+          <li><a href="#" style="color: #FFFFFF;">Implement Trie</a></li>    
+          <!-- <li><a href="#" style="color: #FFFFFF;">$</a></li> -->      
+    </ul> 
+</details>

@@ -323,6 +323,6 @@
     <summary style="font-size: 18px; font-weight: bold; cursor: pointer; color: #2f8f2f;">
         Bit Manipulation
     </summary>            
-          <li><a href="#" style="color: #FFFFFF;">Find Only Repetitive Element from 1 to n-1</a></li>      
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/01_Find%20Only%20Repetitive%20Element%20from%201%20to%20n-1.cpp" style="color: #FFFFFF;">Find Only Repetitive Element from 1 to n-1</a></li>      
     </ul> 
 </details>

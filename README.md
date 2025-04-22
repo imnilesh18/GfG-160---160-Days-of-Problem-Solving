@@ -326,6 +326,6 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/01_Find%20Only%20Repetitive%20Element%20from%201%20to%20n-1.cpp" style="color: #FFFFFF;">Find Only Repetitive Element from 1 to n-1</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/02_Missing%20in%20Array.cpp" style="color: #FFFFFF;">Missing in Array</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/03_Unique%20Number%20I.cpp" style="color: #FFFFFF;">Unique Number I</a></li>   
-          <li><a href="#" style="color: #FFFFFF;">Unique Number II</a></li>   
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/04_Unique%20Number%20II.cpp" style="color: #FFFFFF;">Unique Number II</a></li>   
     </ul> 
 </details>

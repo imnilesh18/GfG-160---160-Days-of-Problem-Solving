@@ -327,7 +327,7 @@
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/02_Missing%20in%20Array.cpp" style="color: #FFFFFF;">Missing in Array</a></li>
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/03_Unique%20Number%20I.cpp" style="color: #FFFFFF;">Unique Number I</a></li>   
           <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/04_Unique%20Number%20II.cpp" style="color: #FFFFFF;">Unique Number II</a></li> 
-          <li><a href="#" style="color: #FFFFFF;">Unique Number III</a></li>  
+          <li><a href="https://github.com/imnilesh18/GfG-160---160-Days-of-Problem-Solving/blob/master/19_Bit%20Manipulation/05_Unique%20Number%20III.cpp" style="color: #FFFFFF;">Unique Number III</a></li>  
 
     </ul> 
 </details>
